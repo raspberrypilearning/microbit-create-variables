@@ -8,7 +8,9 @@ Open the `Variables`{:class='microbitvariables'} menu, and click **Make a Variab
 ![The Variables menu, open with the 'Make a Variable' button highlighted](images/variable-menu.png)
 
 
-Name the new variable, in this example we have named the variable `tune`. Then click the Ok button.
+Name the new variable, in this example we have named the variable `tune`. 
+
+Click the Ok button.
 
 <img src="images/variable-tune.png" alt="The 'New variable name' window, with the name 'tune' written in the box" width="450"/>
 
