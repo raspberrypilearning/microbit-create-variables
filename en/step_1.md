@@ -7,9 +7,6 @@ Open the `Variables`{:class='microbitvariables'} menu, and click **Make a Variab
 
 ![The Variables menu, open with the 'Make a Variable' button highlighted](images/variable-menu.png)
 
---- /task ---
-
---- task ---
 
 Name the new variable, in this example we have named the variable `tune`. Then click the Ok button.
 
