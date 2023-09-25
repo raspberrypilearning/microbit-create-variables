@@ -1,59 +1,24 @@
-## Introduction
+A variable is a way of labelling and storing data in your programs. Your program can use and change the data stored in a variable when it runs.
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+Data stored in a variable might be a number like `10` or a word like `dinosaur`.
 
-### What you will make
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+Open the `Variables`{:class='microbitvariables'} menu, and click **Make a Variable**.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+![The Variables menu, open with the 'Make a Variable' button highlighted](images/variable-menu.png)
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+--- /task ---
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+--- task ---
 
-+ A computer or tablet capable of running Scratch 3
+Name the new variable, in this example we have named the variable `tune`. Then click the Ok button.
 
-### Software
+<img src="images/variable-tune.png" alt="The 'New variable name' window, with the name 'tune' written in the box" width="450"/>
 
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
+--- /task ---
 
-### Downloads
+There will now be new blocks available that you can use to set, change or use the value stored in the named variable. 
 
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
+<img src="images/variableblocks-tune.png" alt="The Variables menu - with new blocks to set, change and use the value of the tune variable." width="350"/>
 
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+You can drag these inside other blocks to use within your program.
