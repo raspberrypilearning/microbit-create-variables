@@ -2,9 +2,15 @@ A variable is a way of labelling and storing data in your programs. Your program
 
 Data stored in a variable might be a number like `10` or a word like `dinosaur`.
 
+\--- task ---
+
 Open the `Variables`{:class='microbitvariables'} menu, and click **Make a Variable**.
 
 ![The Variables menu, with the 'Make a Variable' button highlighted.](images/variable-menu.png)
+
+\--- /task ---
+
+\--- task ---
 
 Name the new variable. In this example, we have named the variable `tune`.
 
