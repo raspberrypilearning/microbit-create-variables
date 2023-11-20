@@ -1,27 +1,27 @@
-A variable is a way of labelling and storing data in your programs. Your program can use and change the data stored in a variable when it runs.
+Een variabele is een manier om gegevens in je programma's te benoemen en op te slaan. Je programma kan gegevens die zijn opgeslagen in een variabele gebruiken en wijzigen wanneer het wordt uitgevoerd.
 
-Data stored in a variable might be a number like `10` or a word like `dinosaur`.
+Gegevens die in een variabele zijn opgeslagen, kunnen een getal zijn zoals '10' of een woord zoals 'dinosaurus'.
 
 \--- task ---
 
-Open the `Variables`{:class='microbitvariables'} menu, and click **Make a Variable**.
+Open het `Variabelen`{:class="microbitvariables"} menu en klik op **Maak een variabele**.
 
-![The Variables menu, with the 'Make a Variable' button highlighted.](images/variable-menu.png)
+![Het Variabelenmenu, met de knop 'Maak een variabele' gemarkeerd.](images/variable-menu.png)
 
 \--- /task ---
 
 \--- task ---
 
-Name the new variable. In this example, we have named the variable `tune`.
+Geef de nieuwe variabele een naam. In dit voorbeeld hebben we de variabele `deuntje` genoemd.
 
-Click the Ok button.
+Klik op de Ok knop.
 
 <img src="images/variable-tune.png" alt="The 'New variable name' window, with the name 'tune' written in the box." width="450"/>
 
 \--- /task ---
 
-There will now be new blocks available that you can use to set, change, or use the value stored in the named variable.
+Er zullen nu nieuwe blokken beschikbaar zijn die je kunt gebruiken om de waarde die is opgeslagen in de gemaakte variabele in te stellen, te veranderen of te gebruiken.
 
 <img src="images/variableblocks-tune.png" alt="The Variables menu with new blocks to set, change, and use the value of the tune variable." width="350"/>
 
-You can drag these inside other blocks to use within your program.
+Je kunt deze in andere blokken slepen om te gebruiken in je programma.
