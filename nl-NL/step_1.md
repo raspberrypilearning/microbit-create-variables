@@ -1,6 +1,6 @@
 Een variabele is een manier om gegevens in je programma's te benoemen en op te slaan. Je programma kan gegevens die zijn opgeslagen in een variabele gebruiken en wijzigen wanneer het wordt uitgevoerd.
 
-Gegevens die in een variabele zijn opgeslagen, kunnen een getal zijn zoals '10' of een woord zoals 'dinosaurus'.
+Gegevens die in een variabele zijn opgeslagen, kunnen een getal zijn zoals `10` of een woord zoals `dinosaurus`.
 
 \--- task ---
 
