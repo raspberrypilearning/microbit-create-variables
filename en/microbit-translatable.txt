@@ -1,0 +1,3 @@
+The 'New variable name' window, with the name 'tune' written in the box.
+
+The Variables menu with new blocks to set, change, and use the value of the tune variable.
