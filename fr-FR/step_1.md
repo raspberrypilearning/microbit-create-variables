@@ -1,27 +1,27 @@
-A variable is a way of labelling and storing data in your programs. Your program can use and change the data stored in a variable when it runs.
+Une variable est un moyen d'étiqueter et de stocker des données dans tes programmes. Ton programme peut utiliser et modifier les données stockées dans une variable lors de son exécution.
 
-Data stored in a variable might be a number like `10` or a word like `dinosaur`.
+Les données stockées dans une variable peuvent être un nombre comme `10` ou un mot comme `dinosaure`.
 
 \--- task ---
 
-Open the `Variables`{:class='microbitvariables'} menu, and click **Make a Variable**.
+Ouvre le menu `Variables`{:class='microbitvariables'} et clique sur **Créer une variable**.
 
-![The Variables menu, with the 'Make a Variable' button highlighted.](images/variable-menu.png)
+![Le menu Variables avec le bouton "Créer une variable" en surbrillance.](images/variable-menu.png)
 
 \--- /task ---
 
 \--- task ---
 
-Name the new variable. In this example, we have named the variable `tune`.
+Nomme la nouvelle variable. Dans cet exemple, nous avons nommé la variable `musique`.
 
-Click the Ok button.
+Clique sur le bouton OK.
 
 <img src="images/variable-tune.png" alt="The 'New variable name' window, with the name 'tune' written in the box." width="450"/>
 
 \--- /task ---
 
-There will now be new blocks available that you can use to set, change, or use the value stored in the named variable.
+De nouveaux blocs sont désormais disponibles pour définir, modifier ou utiliser la valeur stockée dans la variable nommée.
 
 <img src="images/variableblocks-tune.png" alt="The Variables menu with new blocks to set, change, and use the value of the tune variable." width="350"/>
 
-You can drag these inside other blocks to use within your program.
+Tu peux les faire glisser dans d'autres blocs pour les utiliser dans ton programme.
